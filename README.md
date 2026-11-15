@@ -76,7 +76,7 @@ The raw dataset is also available directly in this repository as [`RTA_Dataset.c
 ## Project Structure
 
 ```text
-ML-zoomcamp-mid-term-project/
+Accident-Fatality-Prediction/
 │
 ├── data/
 ├── src/
@@ -97,8 +97,8 @@ ML-zoomcamp-mid-term-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbdulrahmanGidado/ML-zoomcamp-mid-term-project.git
-cd ML-zoomcamp-mid-term-project
+git clone https://github.com/AbdulrahmanGidado/Accident-Fatality-Prediction.git
+cd Accident-Fatality-Prediction
 ```
 
 ### 2. Install uv
