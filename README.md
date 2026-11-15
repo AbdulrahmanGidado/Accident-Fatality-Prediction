@@ -80,6 +80,7 @@ ML-zoomcamp-mid-term-project/
 │
 ├── data/
 ├── src/
+├── images/
 ├── notebook.ipynb
 ├── RTA_Dataset.csv
 ├── model.bin
