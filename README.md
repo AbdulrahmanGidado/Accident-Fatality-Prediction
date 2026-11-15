@@ -8,7 +8,7 @@ This project focuses on predicting whether a road traffic accident is fatal or n
 
 The project follows an end-to-end machine learning workflow, covering exploratory data analysis (EDA), data preprocessing, feature selection, model training, hyperparameter tuning, and model evaluation.
 
-Several classification algorithms were explored and compared, with XGBoost selected as the final model based on its performance.
+Several classification algorithms like a baseline Logistic Regression model, Decision Tree Classifier, Random Forest Classifier, XGBoost were explored and compared, with XGBoost selected as the final model based on its performance.
 
 The selected model is served through a FastAPI web service, allowing users to submit accident details and receive a predicted fatality probability and classification. The prediction threshold is set to 0.10 according to the tested thresholds in the notebook.
 
