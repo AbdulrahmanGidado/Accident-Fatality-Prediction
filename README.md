@@ -127,6 +127,14 @@ Open the FastAPI documentation in your browser:
 
 [http://127.0.0.1:9696/docs](http://127.0.0.1:9696/docs)
 
+### FastAPI Documentation
+
+![FastAPI Documentation](images/fastapi-docs-1.png)
+
+### API Prediction Response
+
+![API Prediction Response](images/fastapi-docs-2.png)
+
 1. Expand the `/predict` endpoint.
 2. Click **Try it out**.
 3. Enter the accident details in JSON format.
